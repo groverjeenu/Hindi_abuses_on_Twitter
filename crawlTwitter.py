@@ -10,10 +10,10 @@ pyopenssl.inject_into_urllib3()
 
 
 authorizationConstants = {
-	"apiKey" : "b87ghMpMcfmSBj97oO3G0YIeO",##give ur api key,
-	"apiSecret" : "Jaa6dVCYCIbHr6UfdMI5KMWRn7k9ODeNHZsIu6LFPUnreI0tmU",##give ur api secret,
-	"accessToken" : "3880102523-76c289oWIlaoK7K0Csg5fcROR0nTrouXlV1tEYR",
-	"accessSecret" : "gwdkw0uyyiMy9APM0vHeGiWm8nfyTfVVRSWXLTFePlh0V"
+	"apiKey" : ##give ur api key,
+	"apiSecret" : ##give ur api secret,
+	"accessToken" : ##,
+	"accessSecret" : ##
 }
 
 def authorize():
